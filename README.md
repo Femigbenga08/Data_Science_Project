@@ -19,7 +19,7 @@ Customer churn is the tendency of customers to discontinue being clients of a sp
 
 5.Matplotlib
 
-### Data Summary
+### Summary
 The following is an overview of the different machine learning models that were trained and assessed to forecast customer attrition using the above code snippets:
 
 Logistic Regression:
